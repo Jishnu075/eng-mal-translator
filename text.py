@@ -24,7 +24,7 @@ for line in file_name:
 
     done_file.write("\n")  
     err_count = err_count + 1
-    #time.sleep(1)
+    time.sleep(2)
 
 
 
