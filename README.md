@@ -1,4 +1,4 @@
-![alt text](https://i.morioh.com/201006/eda2caad.webp)
+![alt text](https://1drv.ms/u/s!ArbFqC5bCvaogR4YE1BfL44UATRV)
 
 # English to Malayalam Translation 
 
